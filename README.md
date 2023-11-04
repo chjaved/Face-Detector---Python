@@ -1,2 +1,2 @@
 # Face-Detector---Python
-This project utilizes the OpenCV library to implement real-time face detection using a webcam feed.
+This project utilizes the OpenCV library to implement real-time face detection using a webcam feed. It captures video frames, converts them to grayscale for efficient processing, and applies a pre-trained face detection model. Detected faces are then outlined with yellow rectangles on the original color frame, providing a live visual representation of the detected faces in the video stream. The program can be exited by pressing the "q" key.
